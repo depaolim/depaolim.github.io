@@ -7,15 +7,31 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://marcodepaoli.info/</loc>
-  <lastmod>2017-10-24T02:33:00Z</lastmod>
+  <lastmod>2017-10-24T03:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://marcodepaoli.info/2012/</loc>
   <lastmod>2017-10-24T02:33:00Z</lastmod>
  </url>
  <url>
+  <loc>https://marcodepaoli.info/2017/</loc>
+  <lastmod>2017-10-24T03:35:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://marcodepaoli.info/archive.html</loc>
-  <lastmod>2017-10-24T02:33:00Z</lastmod>
+  <lastmod>2017-10-24T03:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://marcodepaoli.info/authors/</loc>
+  <lastmod>2017-10-24T03:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://marcodepaoli.info/authors/marco-de-paoli/</loc>
+  <lastmod>2017-10-24T03:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://marcodepaoli.info/authors/roberto-alsina/</loc>
+  <lastmod>2017-10-24T03:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://marcodepaoli.info/categories/</loc>
@@ -43,15 +59,31 @@
  </url>
  <url>
   <loc>https://marcodepaoli.info/en/</loc>
-  <lastmod>2017-10-24T02:33:00Z</lastmod>
+  <lastmod>2017-10-24T03:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://marcodepaoli.info/en/2012/</loc>
   <lastmod>2017-10-24T02:33:00Z</lastmod>
  </url>
  <url>
+  <loc>https://marcodepaoli.info/en/2017/</loc>
+  <lastmod>2017-10-24T03:35:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://marcodepaoli.info/en/archive.html</loc>
-  <lastmod>2017-10-24T02:33:00Z</lastmod>
+  <lastmod>2017-10-24T03:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://marcodepaoli.info/en/authors/</loc>
+  <lastmod>2017-10-24T03:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://marcodepaoli.info/en/authors/marco-de-paoli/</loc>
+  <lastmod>2017-10-24T03:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://marcodepaoli.info/en/authors/roberto-alsina/</loc>
+  <lastmod>2017-10-24T03:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://marcodepaoli.info/en/categories/</loc>
@@ -161,6 +193,11 @@
   <xhtml:link rel="alternate" hreflang="it" href="https://marcodepaoli.info/pages/theming/" />
  </url>
  <url>
+  <loc>https://marcodepaoli.info/en/posts/metapost/</loc>
+  <lastmod>2017-10-24T03:35:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="it" href="https://marcodepaoli.info/posts/metapost/" />
+ </url>
+ <url>
   <loc>https://marcodepaoli.info/en/posts/welcome-to-nikola/</loc>
   <lastmod>2017-10-24T02:33:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="it" href="https://marcodepaoli.info/posts/welcome-to-nikola/" />
@@ -183,7 +220,7 @@
  </url>
  <url>
   <loc>https://marcodepaoli.info/listings/hello.py.html</loc>
-  <lastmod>2017-10-24T02:33:00Z</lastmod>
+  <lastmod>2017-10-24T03:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://marcodepaoli.info/pages/about-nikola/</loc>
@@ -244,6 +281,10 @@
  <url>
   <loc>https://marcodepaoli.info/pages/theming/</loc>
   <lastmod>2017-10-24T02:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://marcodepaoli.info/posts/metapost/</loc>
+  <lastmod>2017-10-24T03:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://marcodepaoli.info/posts/welcome-to-nikola/</loc>
